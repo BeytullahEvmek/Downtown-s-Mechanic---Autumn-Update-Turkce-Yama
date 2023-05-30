@@ -1,6 +1,6 @@
-#Sehir-Merkezinin-Tamircisi---Sonbahar-güncellemesi
+# Sehir-Merkezinin-Tamircisi---Sonbahar-güncellemesi
 
-#DIKKAT:SOTWS OYNAMADIYSANIZ GERI KALANINI OKUMAYIN
+# DIKKAT:SOTWS OYNAMADIYSANIZ GERI KALANINI OKUMAYIN
 
 Elbette Undertale oynadıysanız komünitenin underswap ya da underfell gibi "Alternatif evren" hayran yapımı oyunlarını görmüşsünüzdür.
 
@@ -8,7 +8,7 @@ Bu oyunda ise Takım'ın en güçlüsü akıl sağlığını koruşus bir şekil
 
 Ama kadifenin ölümcüllüğünü anlayan bir dostumuz ise sonsuzun içine düşüyor
 
-#Yama nasıl kurulur
+# Yama nasıl kurulur
 Yamayı indirme
 ![240744727-3a14b57e-26de-40fa-8a6f-1e1f69761612](https://github.com/BeytullahEvmek/Sehir-Merkezinin-Tamircisi---Sonbahar-g-ncellemesi/assets/130393344/0eecb47b-555e-44e5-9a1e-56457fdb4e3c)
 ![240744733-e092d3a2-2c33-49ec-bbc3-9ed39c891959](https://github.com/BeytullahEvmek/Sehir-Merkezinin-Tamircisi---Sonbahar-g-ncellemesi/assets/130393344/d4d6dca3-6f67-4c28-8dde-c16c72815989)
@@ -28,7 +28,7 @@ Ya da bu linkden hemen indirebilirsiniz:https://dl.komodo.jp/rpgmakerweb/run-tim
 
 Oyunu hızlandırmak için Cheat Engine kullanabilirsiniz. https://www.cheatengine.org/
 
-#Hak sahipleri
+# Hak sahipleri
 
 LISA: The Painful Dingaling trafından yapılmıştır. https://store.steampowered.com/app/335670/LISA_The_Painful/
 
