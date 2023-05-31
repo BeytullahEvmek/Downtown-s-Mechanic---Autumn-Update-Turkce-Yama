@@ -8,6 +8,8 @@ Bu oyunda ise Takım'ın en güçlüsü akıl sağlığını koruşus bir şekil
 
 Ama kadifenin ölümcüllüğünü anlayan bir dostumuz ise sonsuzun içine düşüyor
 
+# DIKKAT:Yapımcı oyunu denediğinden bazı kayıt dosyaları koymuş,onları kullanmamanız ve yeni bir oyunla başlamanız önerilir
+
 # Yama nasıl kurulur
 Yamayı indirme
 ![240744727-3a14b57e-26de-40fa-8a6f-1e1f69761612](https://github.com/BeytullahEvmek/Sehir-Merkezinin-Tamircisi---Sonbahar-g-ncellemesi/assets/130393344/0eecb47b-555e-44e5-9a1e-56457fdb4e3c)
