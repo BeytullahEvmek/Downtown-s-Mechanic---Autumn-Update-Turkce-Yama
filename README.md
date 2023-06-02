@@ -1,5 +1,7 @@
 # Sehir-Merkezinin-Tamircisi---Sonbahar-güncellemesi
 
+![749834-crcxmebc-v4](https://github.com/BeytullahEvmek/Downtown-s-Mechanic---Autumn-Update-Turkce-Yama/assets/130393344/3ffb357f-9c29-4650-a74a-e4d620c773b5)
+
 # DIKKAT:SOTWS OYNAMADIYSANIZ GERI KALANINI OKUMAYIN
 
 Elbette Undertale oynadıysanız komünitenin underswap ya da underfell gibi "Alternatif evren" hayran yapımı oyunlarını görmüşsünüzdür.
